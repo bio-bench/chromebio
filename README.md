@@ -3,13 +3,13 @@ A browser (Chrome and Firefox) extension providing context menu tools for DNA an
 
 ## Features
 
-- Clean Sequence: Remove unwanted characters from DNA sequences.
-- Complement Sequence: Generate the complementary DNA sequence.
-- Reverse Sequence: Reverse the DNA sequence.
-- Reverse Complement: Generate the reverse complement of a DNA sequence.
-- Send to BLAST: Quickly send sequences to BLAST for similarity searches.
-- Translate Sequence: Translate a DNA sequence to its corresponding protein sequence.
-- Protein Properties: Analyze basic properties of protein sequences.
+- **Clean Sequence**: Remove unwanted characters from DNA sequences.
+- **Complement Sequence**: Generate the complementary DNA sequence.
+- **Reverse Sequence**: Reverse the DNA sequence.
+- **Reverse Complement**: Generate the reverse complement of a DNA sequence.
+- **Send to BLAST**: Quickly send sequences to BLAST for similarity searches.
+- **Translate Sequence**: Translate a DNA sequence to its corresponding protein sequence.
+- **Protein Properties**: Analyze basic properties of protein sequences.
 - **Send to BLASTP**: Submit protein sequences to BLASTP for similarity searches.
 - **Send to SMART**: Submit protein sequences to SMART for domain analysis.
 - **Send to PDB**: Submit protein sequences to PDB for structure search.
