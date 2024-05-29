@@ -1,6 +1,8 @@
 # ChromeBio
 A browser (Chrome and Firefox) extension providing context menu tools for DNA and protein analysis.
 
+![DNA and Protein Analysis Extension](images/chromebio.png)
+
 ## Features
 
 - **Clean Sequence**: Remove unwanted characters from DNA sequences.
